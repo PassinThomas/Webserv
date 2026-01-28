@@ -39,7 +39,7 @@ make
 ### Compilation et lancement
 ```bash
 # Cloner le repository
-git clone https://github.com/alesshardy/Webserv.git
+git clone https://github.com/PassinThomas/Webserv.git
 cd Webserv
 
 # Compiler le serveur
